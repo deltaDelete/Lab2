@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лаба2</string>
+    <string name="action_settings">Настройки</string>
+    <string name="first_fragment_label">Первый фрагмент</string>
+    <string name="second_fragment_label">Второй фрагмент</string>
+    <string name="next">Следующий</string>
+    <string name="previous">Предыдущий</string>
+    <string name="salary">Зарплата</string>
+    <string name="age">Возраст</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="go_next">Вперед</string>
+    <string name="go_back">Назад</string>
+    <string name="user_info">Имя: %s\nФамилия: %s\nВозраст: %d\nЗарплата: %.2f</string>
+</resources>
